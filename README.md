@@ -11,7 +11,8 @@ Open the jar shortcut file to run the application
 ![Screenshot (1010)](https://user-images.githubusercontent.com/59906496/116796952-3c004d80-aafe-11eb-8a69-6892a231d21a.png)
 ![Screenshot (1012)](https://user-images.githubusercontent.com/59906496/116796957-3f93d480-aafe-11eb-9cc3-cc61aca07270.png)
 
-![Screenshot_2021-05-02 Registration Successfull - iit2019144 iiita ac in - Indian Institute of Information Technology, Allah](https://user-images.githubusercontent.com/59906496/116797199-aadea600-ab00-11eb-8cb3-acf7b612014b.png)
+![Screenshot_2021-05-02 Registration Successfull - iit2019144 iiita ac in - Indian Institute of Information Technology, Allah](https://user-images.githubusercontent.com/59906496/116797215-e11c2580-ab00-11eb-9480-ada7b0041342.png)
+
 
 ![Screenshot_2021-05-02 Registration Successfull - iit2019144 iiita ac in - Indian Institute of Information Technology, Allah (1)](https://user-images.githubusercontent.com/59906496/116797201-afa35a00-ab00-11eb-9f97-7790010b6fe7.png)
 
