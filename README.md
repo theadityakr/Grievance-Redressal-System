@@ -1,4 +1,4 @@
-# Grivance-Management-System
+# Grievance Redressal System
 * Maintenance of Complaints  , User and Authorities 
 * Java Derby Database , JDBC 
 * Java GUI Frameworks such as Swing & AWT API.
