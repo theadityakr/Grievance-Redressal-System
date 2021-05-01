@@ -4,7 +4,7 @@
 * Java GUI Frameworks such as Swing & AWT API.
 
 
-Open the jar shortcut file to run the application
+Read README.TXT file in the main folder
 
 
 ![Screenshot (1009)](https://user-images.githubusercontent.com/59906496/116796948-37d43000-aafe-11eb-823c-fdd5d71f7926.png)
